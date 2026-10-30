@@ -1,0 +1,26 @@
+
+========================================
+          LOG FILE ANALYZER
+========================================
+
+Total Requests      : 11
+Successful Requests : 8
+Error Responses     : 3
+Malformed Lines     : 1
+
+---------- TOP IP ADDRESSES ----------
+192.168.1.10 -> 5 requests
+192.168.1.11 -> 3 requests
+192.168.1.12 -> 2 requests
+192.168.1.13 -> 1 requests
+
+-------- MOST REQUESTED ENDPOINTS --------
+/home -> 4 requests
+/products -> 3 requests
+/login -> 2 requests
+/about -> 1 requests
+/contact -> 1 requests
+
+========================================
+Analysis completed successfully.
+========================================
